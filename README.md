@@ -1,11 +1,11 @@
 # Tally Backup & Hybrid File Server Architecture  
 
--Client: Confidential Reality
--Industry: Real State
--Size: 500–600 endpoints
--Solution: Automated Encrypted Multi-Device Backup
--Tool: Duplicati
--Cloud Platform: Amazon Web Services (AWS)
+Client: Confidential Reality  
+Industry: Real State  
+Size: 500–600 endpoints  
+Solution: Automated Encrypted Multi-Device Backup  
+Tool: Duplicati  
+Cloud Platform: Amazon Web Services (AWS)  
 
 ---
 
