@@ -1,5 +1,10 @@
 # Tally Backup & Hybrid File Server Architecture  
-**AWS Region: AP-SOUTH-1**
+
+Client: Confidential Reality 
+Industry: Real State Size: 500–600 endpoints
+Solution: Automated Encrypted Multi-Device Backup
+Tool: Duplicati
+Cloud Platform: Amazon Web Services (AWS)
 
 ---
 
