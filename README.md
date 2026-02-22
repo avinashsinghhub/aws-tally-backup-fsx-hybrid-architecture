@@ -121,19 +121,6 @@ Legacy NAS storage is replaced with Amazon FSx for Windows File Server.
 
 ---
 
-## Repository Structure
-aws-tally-backup-fsx-hybrid-architecture/
-├── README.md
-├── architecture/
-│ └── diagram.png
-├── docs/
-│ ├── implementation-guide.md
-│ ├── restore-procedure.md
-│ ├── security-design.md
-│ └── cost-optimization.md
-
----
-
 ## Business Impact
 
 - Improved resilience against data loss
